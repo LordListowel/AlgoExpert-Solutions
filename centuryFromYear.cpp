@@ -1,3 +1,4 @@
+//A function that returns the century that a particular year is in
 int solution(int year) {
 if(year>=1 and year<=100){
     return 1;
